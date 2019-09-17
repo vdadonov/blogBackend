@@ -1,0 +1,22 @@
+{
+  "name": "blogbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdadonov/blogBackend.git"
+  },
+  "author": "Vladimir Dadonov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdadonov/blogBackend/issues"
+  },
+  "homepage": "https://github.com/vdadonov/blogBackend#readme",
+  "dependencies": {
+    "koa": "^2.8.1"
+  }
+}
